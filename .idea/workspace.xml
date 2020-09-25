@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601028326476</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Store Information&#10;&#10;Google Maps&#10;&#10;Phone Number">
+      <created>1601028420555</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028420555</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Store Information&#10;&#10;Google Maps&#10;&#10;Phone Number">
+      <created>1601028431940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028431940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -214,10 +229,10 @@
       <screen x="65" y="24" width="1535" height="876" />
     </state>
     <state x="686" y="261" key="AndroidCreateXmlResourceDialog/65.24.1535.876@65.24.1535.876" timestamp="1601027624183" />
-    <state x="307" y="24" key="CommitChangelistDialog2" timestamp="1601028420510">
+    <state x="307" y="24" key="CommitChangelistDialog2" timestamp="1601028431891">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state x="307" y="24" key="CommitChangelistDialog2/65.24.1535.876@65.24.1535.876" timestamp="1601028420510" />
+    <state x="307" y="24" key="CommitChangelistDialog2/65.24.1535.876@65.24.1535.876" timestamp="1601028431891" />
     <state width="1489" height="229" key="GridCell.Tab.0.bottom" timestamp="1601028334422">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
@@ -234,10 +249,10 @@
       <screen x="65" y="24" width="1535" height="876" />
     </state>
     <state width="1489" height="229" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1601028334421" />
-    <state x="432" y="182" key="Vcs.Push.Dialog.v2" timestamp="1601028183160">
+    <state x="432" y="182" key="Vcs.Push.Dialog.v2" timestamp="1601028435947">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state x="432" y="182" key="Vcs.Push.Dialog.v2/65.24.1535.876@65.24.1535.876" timestamp="1601028183160" />
+    <state x="432" y="182" key="Vcs.Push.Dialog.v2/65.24.1535.876@65.24.1535.876" timestamp="1601028435947" />
     <state x="493" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1601026894381">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
