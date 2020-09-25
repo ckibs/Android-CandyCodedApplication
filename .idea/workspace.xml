@@ -9,11 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Store Information">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601024315697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Store Information&#10;&#10;Google Maps">
+      <created>1601028104774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028104775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Store Information&#10;&#10;Google Maps">
+      <created>1601028167554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028167554</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Store Information&#10;&#10;Google Maps">
+      <created>1601028178464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028178464</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Store Information&#10;&#10;Google Maps&#10;&#10;Phone Number">
+      <created>1601028326476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028326476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -176,7 +201,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Store Information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Store Information" />
+    <MESSAGE value="Store Information&#10;&#10;Google Maps" />
+    <MESSAGE value="Store Information&#10;&#10;Google Maps&#10;&#10;Phone Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Store Information&#10;&#10;Google Maps&#10;&#10;Phone Number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="678" y="341" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601022703096">
@@ -187,26 +214,26 @@
       <screen x="65" y="24" width="1535" height="876" />
     </state>
     <state x="686" y="261" key="AndroidCreateXmlResourceDialog/65.24.1535.876@65.24.1535.876" timestamp="1601027624183" />
-    <state x="307" y="24" key="CommitChangelistDialog2" timestamp="1601028178404">
+    <state x="307" y="24" key="CommitChangelistDialog2" timestamp="1601028326393">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state x="307" y="24" key="CommitChangelistDialog2/65.24.1535.876@65.24.1535.876" timestamp="1601028178404" />
-    <state width="1489" height="229" key="GridCell.Tab.0.bottom" timestamp="1601028252195">
+    <state x="307" y="24" key="CommitChangelistDialog2/65.24.1535.876@65.24.1535.876" timestamp="1601028326393" />
+    <state width="1489" height="229" key="GridCell.Tab.0.bottom" timestamp="1601028334422">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state width="1489" height="229" key="GridCell.Tab.0.bottom/65.24.1535.876@65.24.1535.876" timestamp="1601028252195" />
-    <state width="1489" height="229" key="GridCell.Tab.0.center" timestamp="1601028252194">
+    <state width="1489" height="229" key="GridCell.Tab.0.bottom/65.24.1535.876@65.24.1535.876" timestamp="1601028334422" />
+    <state width="1489" height="229" key="GridCell.Tab.0.center" timestamp="1601028334419">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state width="1489" height="229" key="GridCell.Tab.0.center/65.24.1535.876@65.24.1535.876" timestamp="1601028252194" />
-    <state width="1489" height="229" key="GridCell.Tab.0.left" timestamp="1601028252194">
+    <state width="1489" height="229" key="GridCell.Tab.0.center/65.24.1535.876@65.24.1535.876" timestamp="1601028334419" />
+    <state width="1489" height="229" key="GridCell.Tab.0.left" timestamp="1601028334418">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state width="1489" height="229" key="GridCell.Tab.0.left/65.24.1535.876@65.24.1535.876" timestamp="1601028252194" />
-    <state width="1489" height="229" key="GridCell.Tab.0.right" timestamp="1601028252195">
+    <state width="1489" height="229" key="GridCell.Tab.0.left/65.24.1535.876@65.24.1535.876" timestamp="1601028334418" />
+    <state width="1489" height="229" key="GridCell.Tab.0.right" timestamp="1601028334421">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
-    <state width="1489" height="229" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1601028252195" />
+    <state width="1489" height="229" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1601028334421" />
     <state x="432" y="182" key="Vcs.Push.Dialog.v2" timestamp="1601028183160">
       <screen x="65" y="24" width="1535" height="876" />
     </state>
